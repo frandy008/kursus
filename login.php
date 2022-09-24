@@ -17,15 +17,15 @@
           <div class="card-body">
             <form action="login-proses.php" method="POST">
               <div class="mb-3">
-                <label for="">Username</label>
+                <label>Username</label>
                 <input type="text" name="username" class="form-control">
               </div>
               <div class="mb-3">
-                <label for="">Password</label>
+                <label>Password</label>
                 <input type="password" name="password" class="form-control">
               </div>
               <div class="mb-3">
-                <button class="btn btn-primary">Login</button>
+                <button class="btn btn-primary" type="submit">Login</button>
               </div>
             </form>
           </div>

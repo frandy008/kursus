@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "**/.gitattributes": true,
+    "**/.vscode": true
+  }
+}

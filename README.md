@@ -1,2 +1,0 @@
-# kursus
- Untuk Kursus pemula
